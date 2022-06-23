@@ -11,7 +11,7 @@ function App()
   return (
     <div className="App">
       <header className='header-app'>
-        <img src="/logo.png" alt="Logo" className='img-logo'/>
+        <img src="/logo.png" alt="Logo" className='img-logo' />
         <Typography
           variant={'h3'}
           className={'header-title'}
@@ -31,24 +31,26 @@ function App()
             />
           </CardContent>
           <CardActions
-            className='card-actions'
+
           >
-            <div>
-              <Typography>
-                Link app
-              </Typography>
-              <Typography>
-                <Link href={`rpgo://app/${textDeepLinking}`}>rpgo://app/{textDeepLinking}</Link>
-              </Typography>
-            </div>
-            <div>
-              <Typography>
-                Link friendly
-              </Typography>
-              <Typography>
-                <Link href={`${window.location.href}${textDeepLinking}`}>{window.location.href}{textDeepLinking}</Link>
-              </Typography>
-            </div>
+            <section className='card-actions'>
+              <div>
+                <Typography>
+                  Link app
+                </Typography>
+                <Typography>
+                  <Link href={`rpgo://app/${textDeepLinking}`}>rpgo://app/{textDeepLinking}</Link>
+                </Typography>
+              </div>
+              <div>
+                <Typography>
+                  Link friendly
+                </Typography>
+                <Typography>
+                  <Link href={`${window.location.href}${textDeepLinking}`}>{window.location.href}{textDeepLinking}</Link>
+                </Typography>
+              </div>
+            </section>
           </CardActions>
         </Card>
       </div>

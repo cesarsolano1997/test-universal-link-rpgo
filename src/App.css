@@ -45,10 +45,20 @@ html, body {
 }
 
 .card-actions {
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
 
 .input-deep-linking {
   width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .card-navigation{
+    width: 90%;
+  }
+  .card-actions {
+    flex-direction: column;
+  }
 }
