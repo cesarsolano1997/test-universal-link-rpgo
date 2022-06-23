@@ -38,7 +38,7 @@ function App()
                 Link app
               </Typography>
               <Typography>
-                <Link href={`rpgo://${textDeepLinking}`}>rpgo://{textDeepLinking}</Link>
+                <Link href={`rpgo://app/${textDeepLinking}`}>rpgo://app/{textDeepLinking}</Link>
               </Typography>
             </div>
             <div>
