@@ -3,14 +3,9 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.realplazago.app",
-                "paths": ["app/main/home/event/*"]
-            },
-            {
-                "appID": "D6MZ99JL53.com.realplazago.app",
-                "paths": [ "*" ]
+				"appIDs": ["D6MZ99JL53.com.realplazago.app","635N3QR2WJ.com.realplazago.app"],
+                "paths": ["/centros-comerciales/eventos/*","/main/home/event/*"]
             }
         ]
     }
  }
- 
