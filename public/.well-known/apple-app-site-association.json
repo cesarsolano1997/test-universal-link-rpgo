@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.realplazago.app",
+                "paths": ["app/main/home/event/*"]
+            },
+            {
+                "appID": "D6MZ99JL53.com.realplazago.app",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+ }
+ 
