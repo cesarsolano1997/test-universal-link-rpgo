@@ -7,8 +7,10 @@
         "paths": [
           "/centros-comerciales/eventos/*",
           "/centros-comerciales/eventos/",
-          "/main/home/event/*",
-          "/main/home/event/"
+          "/main/home/",
+          "/main/malls/",
+          "/main/buy/",
+          "/main/profile/"
         ]
       },
       {
@@ -16,8 +18,10 @@
         "paths": [
           "/centros-comerciales/eventos/*",
           "/centros-comerciales/eventos/",
-          "/main/home/event/*",
-          "/main/home/event/"
+          "/main/home/",
+          "/main/malls/",
+          "/main/buy/",
+          "/main/profile/"
         ]
       }
     ]
