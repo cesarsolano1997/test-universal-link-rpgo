@@ -7,9 +7,7 @@
       "namespace": "android_app",
       "package_name": "com.realplazago.app",
       "Sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-        "F8:06:93:6D:FC:1C:E3:42:07:AB:59:79:6C:7E:AA:73:80:08:1E:B0:F1:DA:22:18:24:F4:55:F1:CD:3B:C0:25",
-        "69:2C:7C:E3:70:8C:B1:B2:88:ED:9F:D3:B6:11:D7:E0:3B:C1:74:29:AE:7F:05:BA:2D:53:0C:08:73:D6:94:FE"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
