@@ -5,13 +5,15 @@
       {
         "appID": "D6MZ99JL53.com.realplazago.app",
         "paths": [
-          "*"
+          "/realplaza.com/*",
+          "/realplaza.com/"
         ]
       },
       {
         "appID": "635N3QR2WJ.com.realplazago.app",
         "paths": [
-          "*"
+          "/realplaza.com/*",
+          "/realplaza.com/"
         ]
       }
     ]
