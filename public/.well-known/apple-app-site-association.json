@@ -11,7 +11,12 @@
       {
         "appID": "635N3QR2WJ.com.realplazago.app",
         "paths": [
-          "*"
+          "/centros-comerciales/eventos/*",
+          "/centros-comerciales/eventos/",
+          "/main/home/",
+          "/main/malls/",
+          "/main/buy/",
+          "/main/profile/"
         ]
       }
     ]
